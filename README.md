@@ -1,4 +1,7 @@
 # Excel : Aero Analytics : Navigating the Complexities of Airline and Airport Operations
+
+Project link(Read only): https://1drv.ms/x/c/0436ba43369bb4a8/EQAbqBqag01AhkVkSDsGWioB42aQFYLDa0ZnIJol6K4R-A?e=ud7Bnl
+
 ![image](https://github.com/keerthan-pu/-Aero-Analytics-Navigating-the-Complexities-of-Airline-and-Airport-Operations/assets/114256472/35f66da6-a5cc-4735-94d6-01f41b50b8eb)
 
 # Objective
