@@ -80,4 +80,5 @@ This dataset contains information about various airports.
     - Ensure the dashboard is not only informative but also visually appealing and easy to navigate. Maintain a consistent color scheme and clear labels.
    - Used several functions like Vlookup and merging to join multiple table into one, handled null values.
    - Created Pivot table and different graphs required for dashboarding.
-   - Created 3 major dashboards from graphs, used Slicers and filters and all the formatting options required.
+   - Created 3 major dashboards from graphs, used Slicers and filters
+   - Used all the formatting options required to create a visually pleasing and interactive dashboard to give informative insights from the data.
