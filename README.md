@@ -1,4 +1,4 @@
-# Aero Analytics : Navigating the Complexities of Airline and Airport Operations
+# Excel : Aero Analytics : Navigating the Complexities of Airline and Airport Operations
 ![image](https://github.com/keerthan-pu/-Aero-Analytics-Navigating-the-Complexities-of-Airline-and-Airport-Operations/assets/114256472/35f66da6-a5cc-4735-94d6-01f41b50b8eb)
 
 # Objective
@@ -22,7 +22,7 @@ This dataset contains detailed flight information, including timings, delays, an
 - **SCHEDULED_TIME**: Scheduled duration of the flight.
 - **ELAPSED_TIME**: Actual time taken for the flight.
 - **AIR_TIME**: Time in the air.
-- - **DISTANCE**: Distance covered by the flight.
+- **DISTANCE**: Distance covered by the flight.
 - **TAXI_IN**: The time duration from wheels on to arrival at the gate.
 - **SCHEDULED_ARRIVAL, ARRIVAL_TIME**: Scheduled and actual arrival times.
 - **ARRIVAL_DELAY**: Delay in arrival (minutes).
@@ -48,9 +48,12 @@ This dataset contains information about various airports.
 - **LATITUDE, LONGITUDE**: Geographic coordinates of the airport.
 
 #Dashboards outcome
-<img width="715" alt="Screenshot 2024-05-28 204552" src="https://github.com/keerthan-pu/-Aero-Analytics-Navigating-the-Complexities-of-Airline-and-Airport-Operations/assets/114256472/1128bf05-8c18-40e9-8bae-3502be97a4a5">
-<img width="747" alt="Screenshot 2024-05-28 204529" src="https://github.com/keerthan-pu/-Aero-Analytics-Navigating-the-Complexities-of-Airline-and-Airport-Operations/assets/114256472/9b8f5ba1-1d5f-4a01-8ef1-549631592759">
-<img width="722" alt="Screenshot 2024-05-28 204412" src="https://github.com/keerthan-pu/-Aero-Analytics-Navigating-the-Complexities-of-Airline-and-Airport-Operations/assets/114256472/11eba8b2-624f-485c-87b1-0fb18e63ee3f">
+1.Airlines delay, cancellation and other metrics.
+<img width="715" alt="Screenshot 2024-05-28 204552" src="https://github.com/keerthan-pu/-Aero-Analytics-Navigating-the-Complexities-of-Airline-and-Airport-Operations/assets/114256472/b3d67fb9-67ab-4916-ab27-999e25bf39e6">
+2.Airport traffic and analysis.
+<img width="747" alt="Screenshot 2024-05-28 204529" src="https://github.com/keerthan-pu/-Aero-Analytics-Navigating-the-Complexities-of-Airline-and-Airport-Operations/assets/114256472/51f76a0b-13f6-4640-b227-42484b10cec1">
+3.Time series analysis.
+<img width="722" alt="Screenshot 2024-05-28 204412" src="https://github.com/keerthan-pu/-Aero-Analytics-Navigating-the-Complexities-of-Airline-and-Airport-Operations/assets/114256472/a9aafa16-d120-48d8-b968-1b5e0446afc3">
 
 #Tasks performed
 1. **Flight Operations Overview**:
