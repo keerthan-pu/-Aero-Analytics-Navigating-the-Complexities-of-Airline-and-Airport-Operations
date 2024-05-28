@@ -47,15 +47,18 @@ This dataset contains information about various airports.
 - **COUNTRY**: Country where the airport is located.
 - **LATITUDE, LONGITUDE**: Geographic coordinates of the airport.
 
-#Dashboards outcome
+# Dashboards outcome
 1.Airlines delay, cancellation and other metrics.
+
 <img width="715" alt="Screenshot 2024-05-28 204552" src="https://github.com/keerthan-pu/-Aero-Analytics-Navigating-the-Complexities-of-Airline-and-Airport-Operations/assets/114256472/b3d67fb9-67ab-4916-ab27-999e25bf39e6">
 2.Airport traffic and analysis.
+
 <img width="747" alt="Screenshot 2024-05-28 204529" src="https://github.com/keerthan-pu/-Aero-Analytics-Navigating-the-Complexities-of-Airline-and-Airport-Operations/assets/114256472/51f76a0b-13f6-4640-b227-42484b10cec1">
 3.Time series analysis.
+
 <img width="722" alt="Screenshot 2024-05-28 204412" src="https://github.com/keerthan-pu/-Aero-Analytics-Navigating-the-Complexities-of-Airline-and-Airport-Operations/assets/114256472/a9aafa16-d120-48d8-b968-1b5e0446afc3">
 
-#Tasks performed
+# Tasks performed
 1. **Flight Operations Overview**:
     - Incorporate a summary view showing total number of flights, average delays, and flight cancellations. Include filters to view data by specific airlines or airports.
 2. **Airline Performance Analysis**:
